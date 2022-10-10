@@ -1,5 +1,5 @@
 # pushpak.ai
-to run project
+Step to run project
 npm install to install package
 npm run start
 
@@ -25,6 +25,6 @@ create violation postman collection put in form data
     "date":"2022-10-12",
     "time":"12:10:20",
     "location":"gfbhf",
-    "videoUrl":"drvfsrg"
+    "videoUrl":"xxxx"
 
 }
